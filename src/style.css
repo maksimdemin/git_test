@@ -1,1 +1,10 @@
-<h1>text</h1>
+<h1>Title</h1>
+h1
+{
+font-weight: norma;
+}
+
+p {
+font-weight: bold;
+color red;
+}
